@@ -1,0 +1,36 @@
+Name: Kolawole Ayomikun
+Matric Number: 22CD032156
+
+Project Title: Breast Cancer Prediction System
+
+Machine Learning Algorithm Used: Logistic Regression
+
+Dataset Used: Breast Cancer Wisconsin (Diagnostic) Dataset (Scikit-learn)
+
+Selected Input Features:
+- radius_mean
+- texture_mean
+- perimeter_mean
+- area_mean
+- concavity_mean
+
+Target Variable:
+- Diagnosis (Benign / Malignant)
+
+Model Persistence Method:
+- Joblib (.pkl)
+
+Web Framework Used:
+- Flask (HTML/CSS frontend)
+
+Deployment Platform:
+- Render.com
+
+Live Web Application URL:
+
+
+GitHub Repository Link:
+
+
+Important Note:
+This system is developed strictly for educational purposes and must not be used as a medical diagnostic tool.
